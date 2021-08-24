@@ -1,11 +1,11 @@
-# tree-js
+# mktree
 
 a global command with javascript, like linux `tree`
 
 ## Download
 
 ```bash
-$ npm i tree-js -g
+$ npm i mktree -g
 ```
 
 ## Usage
